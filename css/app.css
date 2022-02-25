@@ -49,8 +49,12 @@ a {
   color: #000;
 }
 .contenedor {
+    width: 90%;
   max-width: 120rem;
   margin: 0 auto;
+}
+.imagen img{
+    object-fit: cover;
 }
 img {
   max-width: 100%;
